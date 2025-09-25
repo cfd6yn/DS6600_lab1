@@ -2,12 +2,11 @@
 Lab assignment 1 for ds6600 fall 2025
 
 # Problem 1
-Reason for chosen license - GNU General Public License v3.0
+Reason for chosen license - MIT License
 
-GNU General Public License fullfills the required permissions allowing both commercial and non-commercial use. Distribution and modification are permitted as well. While it is a copyleft license for software and other kinds of works which means any derivative work must also be released under the same GPL license. This condition under GNU fullfills the requirement from the question of not allowing anyone to modify and distribute my code with a more restrictive license.
+MIT License fullfills the required permissions allowing both commercial and private use. Distribution and modification are permitted as well, according to its documentation. While MIT is permissive which means users can choose another permissive license but not make it more restrictive than MIT. 
 
-
-
+If I had not supplied a license, legally, no one would be able to use, copy, or distribute my code with right.
 
 
 # Environments
